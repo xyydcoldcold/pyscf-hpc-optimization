@@ -19,3 +19,6 @@ Metrics:
 - memory usage
 - speedup
 - scaling with basis size
+
+Data:
+- from CCCBDB experimental geometry data
